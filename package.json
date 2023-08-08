@@ -1,0 +1,27 @@
+{
+  "name": "lets-revisit-dbpc",
+  "version": "0.0.1",
+  "description": "lets-revisit-dbpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concept10/lets-revisit-dbpc.git"
+  },
+  "keywords": [
+    "lets-revisit-dbpc",
+    "dbus",
+    "glib",
+    "gobject",
+    "gjs",
+    "node"
+  ],
+  "author": "Tracey Ledbetter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concept10/lets-revisit-dbpc/issues"
+  },
+  "homepage": "https://github.com/concept10/lets-revisit-dbpc#readme"
+}
