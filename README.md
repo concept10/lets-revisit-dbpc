@@ -8,8 +8,8 @@ Practical Use Cases?  MQTT->DBUS?  PROFIBUS->DBUS?  TERMINALBUS->DBUS?  S7ISOTCP
 
 ## orig-spec-index
 
-DBPC -
-part1
-part2
-part3
+* DBPC -
+* part1
+* part2
+* part3
 
